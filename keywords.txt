@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring For Radioshack Strip
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RadioshackStrip                KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin                          KEYWORD2
+show                           KEYWORD2
+setPixelColor                  KEYWORD2
+setBrightness                  KEYWORD2
+numPixels                      KEYWORD2
+Color                          KEYWORD2
+getPixelColor                  KEYWORD2
