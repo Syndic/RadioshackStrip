@@ -21,7 +21,6 @@ RadioshackStrip::~RadioshackStrip() {
   pinMode(pin, INPUT);
 }
 
-
 void RadioshackStrip::begin() {
   pinMode(pin, OUTPUT);
   digitalWrite(pin, LOW);
